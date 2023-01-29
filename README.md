@@ -1,6 +1,6 @@
 # Algorithm
 
-These are the homework while i take Algorithm in college.
+These are the homework while I take Algorithm in college.
 
 Lab 1: a DP problem for athelete scheduling
 
